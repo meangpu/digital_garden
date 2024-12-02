@@ -8,14 +8,14 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 meangpuGarden",
+    pageTitle: "🪴 meangpuBlog",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian", "Template", "Files"],
+    ignorePatterns: ["private", "templates", ".obsidian", "Template"],
     defaultDateType: "created",
     generateSocialImages: false,
     theme: {

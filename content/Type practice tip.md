@@ -18,15 +18,15 @@ type: youtube-learn
 ทำ ui/ux ได้ดีเป็น website ที่เราชอบที่สุด
 ![[chrome_wjAPcsV6bN.jpg]]
 
----
 
-[Typing Practice](https://www.keybr.com/)
+[Typing Practice](https://www.keybr.com/)  
+
 ![[chrome_e9D8g9c6e6.jpg]]
 
----
 
 remap brain to only type correct word
 https://ranelpadon.github.io/ngram-type/
+
 ![[firefox_OlN0q6vYJR.jpg]]
 
 `alt backspace` = delete whole word
