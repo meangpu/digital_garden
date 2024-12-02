@@ -1,5 +1,5 @@
 ---
-aliases: Eldenring build
+aliases: [Eldenring build]
 date: 2024-07-12
 c-date: Fri, 12-Jul-2024 18:51
 sum: 
@@ -11,8 +11,6 @@ cssclasses:
 
 ### VideoGuide
  ![(11) Elden Ring - Where to Get OP Weapons EARLY | BROKEN TALISMANS | ASH OF WAR | GIGA Tips Guide - YouTube](https://www.youtube.com/watch?v=P7d7XiW_l5Y)
-
-
 
 my first beat game got so much help from this
 ![(7) Best Elden Ring Builds For Beginners - Top 5 Early Game Builds - YouTube](https://www.youtube.com/watch?v=wPuSy9Y6OXA&t=948s)
@@ -42,7 +40,7 @@ my first beat game got so much help from this
 ### tear buff potion
 - dex knot tear
 - starmina max tear
-- stamina regen tear =>  [Elden Ring Map: Interactive | Elden Ring Wiki](https://eldenring.wiki.fextralife.com/Interactive+map?id=2928&lat=-166.670313&lng=128.698045&code=mapA)
+- stamina regen tear => [Elden Ring Map: Interactive | Elden Ring Wiki](https://eldenring.wiki.fextralife.com/Interactive+map?id=2928&lat=-166.670313&lng=128.698045&code=mapA)
 
 ### stat cap
 Vigor : 40/60 
@@ -64,15 +62,11 @@ faith: 15
 then the rest go to arcane
 ![](Files/9e3d6d4bf906c21ca813a0b75dbb6b7d.png)
 
-
-
 good curve sword build video suggestion include stat
 - ![(8) Curved Swords are OP in Elden Ring | 5 Different Builds - YouTube](https://www.youtube.com/watch?v=0rut0aqBld0)
-
 
 ![Elden Ring - Bleed Build Guide - YouTube](https://www.youtube.com/watch?v=7SaRRhfT7cM&t=859s)
 
 why arcane is not as good as invent into dex
 ![How Bleed and Blood loss buildup works in Elden Ring - YouTube](https://www.youtube.com/watch?v=TQnu9qQiWQ4)
-
 
