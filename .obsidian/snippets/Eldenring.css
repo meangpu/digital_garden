@@ -1,0 +1,129 @@
+:root {
+  --eldenring-primary: #a56735;
+  --eldenring-highlight: #d5a762;
+  --eldenring-highlight-bold: #faa320;
+  --eldenring-light-gray: #d0c5c0;
+  --eldenring-bg: #0f0f0f;
+}
+
+.eldenring {
+  --h1-weight: 0;
+  --h2-weight: 0;
+  --h3-weight: 0;
+  --h4-weight: 0;
+  --h5-weight: 0;
+  --h6-weight: 0;
+  --page-color: var(--eldenring-bg);
+
+  --accent-color-trans: color-mix(
+    in srgb,
+    var(--eldenring-primary) 20%,
+    transparent
+  );
+  color-scheme: dark;
+  background-color: var(--eldenring-bg);
+  --text-normal: var(--eldenring-primary);
+  --text-muted: var(--eldenring-primary);
+  --checklist-done-color: var(--eldenring-primary);
+  --metadata-label-text-color: var(--eldenring-primary);
+  --tag-color: var(--eldenring-primary);
+  --link-color: var(--eldenring-primary);
+  --link-external-color: var(--eldenring-primary);
+  --link-unresolved-color: #e14a49;
+  --link-color-hover: var(--eldenring-highlight);
+  --metadata-input-text-color: var(--eldenring-primary);
+  --tag-background: color-mix(
+    in srgb,
+    var(--eldenring-primary) 20%,
+    transparent
+  );
+
+  --text-faint: color-mix(in srgb, var(--eldenring-primary) 50%, transparent);
+  --code-normal: var(--accent-color);
+  --code-background: color-mix(
+    in srgb,
+    var(--page-color) 80%,
+    black
+  ) !important;
+  --blockquote-border-color: var(--eldenring-primary);
+  --interactive-accent: var(--eldenring-primary);
+  --collapse-icon-color-collapsed: var(--eldenring-primary);
+  --checkbox-color: var(--eldenring-primary);
+  --checkbox-marker-color: var(--eldenring-bg);
+  --checkbox-color-hover: color-mix(
+    in srgb,
+    var(--eldenring-primary) 20%,
+    transparent
+  );
+  --checkbox-border-color: var(--eldenring-primary);
+  --list-marker-color: var(--eldenring-primary);
+  --embed-border-left: 2px solid var(--eldenring-primary);
+  --background-modifier-border-focus: var(--eldenring-highlight);
+  --background-modifier-border: color-mix(
+    in srgb,
+    var(--eldenring-primary) 20%,
+    transparent
+  );
+  --background-modifier-hover: color-mix(
+    in srgb,
+    var(--eldenring-primary) 20%,
+    transparent
+  );
+  --metadata-input-background-active: var(--accent-color-trans);
+
+  color: var(--eldenring-light-gray);
+  --hr-color: var(--eldenring-highlight);
+}
+.embed-eldenring img {
+  background-color: var(--eldenring-bg);
+}
+
+.eldenring .multi-select-pill-content {
+  padding-top: 8px;
+}
+
+.eldenring .metadata-property-key {
+  padding-top: 8px;
+}
+
+.eldenring .metadata-input-text {
+  padding-top: 16px;
+  padding-bottom: 0;
+}
+
+.eldenring .text-button-label {
+  padding-top: 10px;
+}
+
+.eldenring .callout-title-inner {
+  padding-top: 6px;
+}
+
+.eldenring :is(h1, .HyperMD-header.HyperMD-header-1) {
+  color: var(--eldenring-light-gray);
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+.eldenring :is(h2, .HyperMD-header.HyperMD-header-2) {
+  color: var(--eldenring-primary);
+}
+
+.eldenring :is(h3, .HyperMD-header.HyperMD-header-3) {
+  color: var(--eldenring-highlight);
+}
+
+.eldenring .multi-select-input {
+  font-family: var(--font-text);
+}
+
+.eldenring svg {
+  color: var(--eldenring-highlight);
+}
+
+.eldenring hr {
+  color: var(--eldenring-highlight);
+}
+
+:is(.eldenring) :is(code, .HyperMD-codeblock, .cm-inline-code) {
+  color: var(--eldenring-highlight-bold);
+}

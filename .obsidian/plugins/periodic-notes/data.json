@@ -1,0 +1,34 @@
+{
+  "showGettingStartedBanner": true,
+  "hasMigratedDailyNoteSettings": true,
+  "hasMigratedWeeklyNoteSettings": true,
+  "daily": {
+    "format": "YYYY-MM-DD",
+    "folder": "Note/Daily",
+    "template": "Template/Z-Daily note Template",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "",
+    "folder": "Note/Weekly",
+    "template": "Template/Z-Weekly Review Template",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "",
+    "template": "Template/Z-Monthly Review Template.md",
+    "folder": "Note/Monthly",
+    "enabled": true
+  },
+  "quarterly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "yearly": {
+    "format": "YYYY-[Y]",
+    "template": "Template/Z-Yearly Review Template.md",
+    "folder": "Note/Yearly",
+    "enabled": true
+  }
+}

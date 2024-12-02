@@ -1,0 +1,38 @@
+{
+  "spellcheck": true,
+  "vimMode": true,
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Note",
+  "livePreview": true,
+  "alwaysUpdateLinks": true,
+  "showFrontmatter": true,
+  "strictLineBreaks": false,
+  "showLineNumber": false,
+  "fileSortOrder": "alphabetical",
+  "attachmentFolderPath": "Files",
+  "showUnsupportedFiles": true,
+  "defaultViewMode": "preview",
+  "readableLineLength": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 50
+  },
+  "communityPluginSortOrder": "download",
+  "showInlineTitle": true,
+  "userIgnoreFilters": [
+    "Files/",
+    "PythonScript/"
+  ],
+  "showRibbon": false,
+  "smartIndentList": true,
+  "autoPairMarkdown": true,
+  "autoPairBrackets": true,
+  "foldIndent": true,
+  "foldHeading": true,
+  "showIndentGuide": true,
+  "lineWrap": true
+}

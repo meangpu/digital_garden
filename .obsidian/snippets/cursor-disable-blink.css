@@ -1,0 +1,14 @@
+.CodeMirror-cursor,
+div.CodeMirror-cursor,
+.cm-fat-cursor,
+.cm-animate-fat-cursor,
+.cm-fat-cursor-mark,
+.cm-cursor {
+  width: 9px !important;
+  visibility: visible !important;
+}
+
+/* only this make it work */
+.cm-cursorLayer {
+  animation: none !important;
+}

@@ -1,0 +1,30 @@
+{
+  "cssTheme": "Vanilla AMOLED",
+  "translucency": false,
+  "baseFontSize": 20,
+  "enabledCssSnippets": [
+    "Japanese Font Support",
+    "Runescape",
+    "GirlFriend",
+    "image_grid",
+    "Colored Sidebar Items",
+    "cursor-disable-blink",
+    "CyanVoxel's General Tweaks",
+    "Daily Note Themes",
+    "Eldenring",
+    "media-grid-snippet",
+    "Minecraft",
+    "Notebook Backgrounds",
+    "shorter-link",
+    "youtubeVideo",
+    "additional_color",
+    "body-width"
+  ],
+  "theme": "obsidian",
+  "accentColor": "#0a98f0",
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "interfaceFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono,Sarabun"
+}

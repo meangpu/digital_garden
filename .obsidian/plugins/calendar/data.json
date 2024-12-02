@@ -1,0 +1,10 @@
+{
+  "shouldConfirmBeforeCreate": true,
+  "weekStart": "monday",
+  "wordsPerDot": 100,
+  "showWeeklyNote": true,
+  "weeklyNoteFormat": "",
+  "weeklyNoteTemplate": "Template/Z-Weekly Review Template",
+  "weeklyNoteFolder": "Note/Weekly",
+  "localeOverride": "system-default"
+}

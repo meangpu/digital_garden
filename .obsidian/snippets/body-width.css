@@ -1,0 +1,8 @@
+body {
+  --user-custom-width: 900px !important;
+  /*Code for edit view*/
+  --file-line-width: var(--user-custom-width);
+  /*Code for live read view*/
+  --content-max-width: 900px !important;
+  --content-base-width: var(--user-custom-width);
+}

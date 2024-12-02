@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Obsidian Customize shortcut",
+      "path": "Note/Obsidian shortcut.md"
+    },
+    {
+      "type": "search",
+      "title": "-path:\"Note/Daily\" -path:\"Template\" tag:#MOC",
+      "query": "-path:\"Note/Daily\" -path:\"Template\" tag:#MOC"
+    },
+    {
+      "type": "file",
+      "title": "Kanban Mainboard",
+      "path": "Note/Kanban Mainboard.md"
+    }
+  ]
+}

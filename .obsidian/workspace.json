@@ -1,0 +1,304 @@
+{
+  "main": {
+    "id": "1b8b2ef16dd576e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "128ede7419150506",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba0412aff59f9fd6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a338f4a0e0fb38a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba178a38247db6cb",
+        "type": "tabs",
+        "dimension": 57.11538461538461,
+        "children": [
+          {
+            "id": "a4a509d11f29afc7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "496b85b0b03f7fe3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "aead571588bbe2dc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Note/Daily/2024-11-03.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-11-03"
+            }
+          },
+          {
+            "id": "52d1fddbd7820367",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "bc13a41060de220e",
+        "type": "tabs",
+        "dimension": 42.88461538461538,
+        "children": [
+          {
+            "id": "2781d873b91ab80f",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.18462326225858147,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 320.5
+  },
+  "right": {
+    "id": "0b68feed8d711afe",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e0e2d286501918a",
+        "type": "tabs",
+        "dimension": 31.508165225744477,
+        "children": [
+          {
+            "id": "4964f8dba39afdcb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6a3ace36d5a16944",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "659b02f427963ff0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Note/Daily/2024-11-03.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-11-03"
+            }
+          },
+          {
+            "id": "e363cee13dbf347d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "3314ef63fe3aecf6",
+        "type": "tabs",
+        "dimension": 34.77425552353506,
+        "children": [
+          {
+            "id": "27a313c6a4cae4c4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1990b22fd615c749",
+        "type": "tabs",
+        "dimension": 33.71757925072046,
+        "children": [
+          {
+            "id": "66d792a1053cd6c7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 332.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false,
+      "vim-toggle:Toggle Vim Mode": false
+    }
+  },
+  "active": "a4a509d11f29afc7",
+  "lastOpenFiles": [
+    "Template",
+    "Note/unity find all tmp ui.md",
+    "Note/Place/ตำสากใหญ่.md",
+    "Note/another split keyboard.md",
+    "Note/Daily/2023-10-28.md",
+    "Note/ลอยกระทง.md",
+    "Note/ลำโพงกระเป๋าเดินทาง.md",
+    "People/Youtube/DadMoley.md",
+    "Note/Trillion game.md",
+    "Note/beautiful pixel art water in unity.md",
+    "Note/Daily/2024-12-02.md",
+    "Note/การส่งซ่อม sony.md",
+    "Note/Kerry.md",
+    "Note/ธนาคารกรุงเทพ.md",
+    "Note/Daily/2024-12-01.md",
+    "Note/game idea.md",
+    "People/พี ppp.md",
+    "Note/Daily/2024-06-29.md",
+    "People/ภูริ น้องพี PPP.md",
+    "Note/Daily/2023-12-01.md",
+    "Note/Luma Island.md",
+    "Files/steamwebhelper_sOyGXSFcsQ.jpg",
+    "Note/Monthly/2024-M12.md",
+    "Note/Subverse.md",
+    "Note/Summer Clover.md",
+    "Note/Daily/2024-11-30.md",
+    "Note/LOL.md",
+    "Files/firefox_bQAlaFkjtf.png",
+    "Files/firefox_x74kUvCvGJ.png",
+    "Files/nomacs_RHqzf8Ec0t.jpg",
+    "Files/msedge_yReHrzr5iS.jpg",
+    "Files/msedge_1i5m5OA2sx.jpg",
+    "Files/passport_gf_2024.pdf",
+    "Files/firefox_HoKwqtUqZn.jpg",
+    "Files/firefox_l6iThGvRUT.jpg",
+    "Files/firefox_OEDgasZ58G.jpg",
+    "Files/firefox_tu2ogMgwkO.jpg",
+    "Canvas/U.DoJump.canvas",
+    "Canvas/U.GamePortfolio.canvas",
+    "Canvas/U.MeRPG.canvas",
+    "Canvas/PortfolioRework.canvas",
+    "Files/อว 0656.11-144-เชิญวิทยากรภายนอก-ม.ขอนแก่น 2 ราย.pdf",
+    "Clippings",
+    "Files/prim_portfolio.pdf",
+    "Canvas/__projectTemplate.canvas",
+    "Files/backend-developer-test.pdf"
+  ]
+}

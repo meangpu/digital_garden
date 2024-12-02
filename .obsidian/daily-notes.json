@@ -1,0 +1,6 @@
+{
+  "format": "YYYY-MM-DD",
+  "folder": "Note/Daily",
+  "autorun": false,
+  "template": "Template/Z-Daily note Template"
+}

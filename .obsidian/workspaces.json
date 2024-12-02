@@ -1,0 +1,582 @@
+{
+  "workspaces": {
+    "FindConnectionBetter": {
+      "main": {
+        "id": "1b8b2ef16dd576e4",
+        "type": "split",
+        "children": [
+          {
+            "id": "b00bd2962f423a42",
+            "type": "split",
+            "children": [
+              {
+                "id": "4eb1b6134b376478",
+                "type": "tabs",
+                "dimension": 50.33557046979866,
+                "children": [
+                  {
+                    "id": "6026b36d6cd8c64b",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Note/Daily/Thu, 18-Aug-2022.md",
+                        "mode": "source",
+                        "backlinks": true,
+                        "source": true
+                      }
+                    },
+                    "group": "8ccccf36bef820a7"
+                  }
+                ]
+              },
+              {
+                "id": "facb24633c371e1f",
+                "type": "tabs",
+                "dimension": 49.664429530201346,
+                "children": [
+                  {
+                    "id": "4af42bed83f53956",
+                    "type": "leaf",
+                    "state": {
+                      "type": "localgraph",
+                      "state": {
+                        "file": "Note/Daily/Thu, 18-Aug-2022.md",
+                        "options": {
+                          "collapse-filter": true,
+                          "search": "",
+                          "localJumps": 1,
+                          "localBacklinks": true,
+                          "localForelinks": true,
+                          "localInterlinks": false,
+                          "showTags": false,
+                          "showAttachments": false,
+                          "hideUnresolved": false,
+                          "collapse-color-groups": true,
+                          "colorGroups": [],
+                          "collapse-display": true,
+                          "showArrow": false,
+                          "textFadeMultiplier": 0,
+                          "nodeSizeMultiplier": 1,
+                          "lineSizeMultiplier": 1,
+                          "collapse-forces": true,
+                          "centerStrength": 0.518713248970312,
+                          "repelStrength": 10,
+                          "linkStrength": 1,
+                          "linkDistance": 250,
+                          "scale": 0.36288736930121174,
+                          "close": true
+                        }
+                      }
+                    },
+                    "group": "8ccccf36bef820a7"
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "a3477e27d091481a",
+            "type": "split",
+            "children": [
+              {
+                "id": "05f43904266b21a4",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "8eaabf5c92280f4f",
+                    "type": "leaf",
+                    "state": {
+                      "type": "backlink",
+                      "state": {
+                        "file": "Note/Daily/Thu, 18-Aug-2022.md",
+                        "collapseAll": false,
+                        "extraContext": false,
+                        "sortOrder": "alphabetical",
+                        "showSearch": false,
+                        "searchQuery": "",
+                        "backlinkCollapsed": false,
+                        "unlinkedCollapsed": true
+                      }
+                    },
+                    "group": "8ccccf36bef820a7"
+                  }
+                ]
+              },
+              {
+                "id": "7eaac33458fc5c7f",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "04b3766d38697335",
+                    "type": "leaf",
+                    "state": {
+                      "type": "outgoing-link",
+                      "state": {
+                        "file": "Note/Daily/Thu, 18-Aug-2022.md",
+                        "linksCollapsed": false,
+                        "unlinkedCollapsed": true
+                      }
+                    },
+                    "group": "8ccccf36bef820a7"
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "a338f4a0e0fb38a0",
+        "type": "split",
+        "children": [
+          {
+            "id": "ba178a38247db6cb",
+            "type": "tabs",
+            "dimension": 76.905311778291,
+            "children": [
+              {
+                "id": "a4a509d11f29afc7",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "f12cfaed006b920f",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              },
+              {
+                "id": "496b85b0b03f7fe3",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "aead571588bbe2dc",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Note/Daily/Thu, 18-Aug-2022.md"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "83c26bcb44363905",
+            "type": "tabs",
+            "dimension": 23.094688221709006,
+            "children": [
+              {
+                "id": "5ce354af6c046b49",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 202,
+        "collapsed": true
+      },
+      "right": {
+        "id": "0b68feed8d711afe",
+        "type": "split",
+        "children": [
+          {
+            "id": "912c275a4df95178",
+            "type": "tabs",
+            "dimension": 51.20101137800252,
+            "children": [
+              {
+                "id": "2781d873b91ab80f",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Note/Daily/Thu, 18-Aug-2022.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": true,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": false,
+                      "colorGroups": [],
+                      "collapse-display": false,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": false,
+                      "centerStrength": 0.701390454716272,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 136,
+                      "scale": 0.5087618855792593,
+                      "close": true
+                    }
+                  }
+                }
+              },
+              {
+                "id": "4964f8dba39afdcb",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "27a313c6a4cae4c4",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Note/Daily/Thu, 18-Aug-2022.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": true,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "b33e44d9d36a725f",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Note/Daily/Thu, 18-Aug-2022.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "9cb5e73bdd4f2aba",
+                "type": "leaf",
+                "state": {
+                  "type": "Saved Queries View",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "1990b22fd615c749",
+            "type": "tabs",
+            "dimension": 48.79898862199748,
+            "children": [
+              {
+                "id": "66d792a1053cd6c7",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "dd2e1cccc1830119",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 100,
+        "collapsed": true
+      },
+      "active": "6026b36d6cd8c64b"
+    },
+    "meangpu": {
+      "main": {
+        "id": "1b8b2ef16dd576e4",
+        "type": "split",
+        "children": [
+          {
+            "id": "2319b25da6d56e20",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7eb5ce55e92889fb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Note/Daily/2024-05-17.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "a338f4a0e0fb38a0",
+        "type": "split",
+        "children": [
+          {
+            "id": "ba178a38247db6cb",
+            "type": "tabs",
+            "dimension": 56.15384615384615,
+            "children": [
+              {
+                "id": "a4a509d11f29afc7",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "496b85b0b03f7fe3",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#todo",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "aead571588bbe2dc",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Note/Daily/2024-05-17.md"
+                  }
+                }
+              },
+              {
+                "id": "52d1fddbd7820367",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "bc13a41060de220e",
+            "type": "tabs",
+            "dimension": 43.84615384615385,
+            "children": [
+              {
+                "id": "2781d873b91ab80f",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Note/Daily/2024-05-17.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.2588386562181628,
+                      "close": true
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 260.5
+      },
+      "right": {
+        "id": "0b68feed8d711afe",
+        "type": "split",
+        "children": [
+          {
+            "id": "0e0e2d286501918a",
+            "type": "tabs",
+            "dimension": 31.508165225744477,
+            "children": [
+              {
+                "id": "4964f8dba39afdcb",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "6a3ace36d5a16944",
+                "type": "leaf",
+                "state": {
+                  "type": "git-history-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "659b02f427963ff0",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Note/Daily/2024-05-17.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "d7cca564e9b64ad7",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  }
+                }
+              },
+              {
+                "id": "e363cee13dbf347d",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 4
+          },
+          {
+            "id": "3314ef63fe3aecf6",
+            "type": "tabs",
+            "dimension": 34.77425552353506,
+            "children": [
+              {
+                "id": "27a313c6a4cae4c4",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Note/Daily/2024-05-17.md",
+                    "collapseAll": false,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "1990b22fd615c749",
+            "type": "tabs",
+            "dimension": 33.71757925072046,
+            "children": [
+              {
+                "id": "66d792a1053cd6c7",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 332.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "random-note:Open random note": false,
+          "workspaces:Manage workspace layouts": false,
+          "templater-obsidian:Templater": false,
+          "periodic-notes:Open today": false
+        }
+      },
+      "active": "7eb5ce55e92889fb",
+      "mtime": "2024-05-17T23:12:52+07:00"
+    }
+  },
+  "active": "meangpu"
+}
