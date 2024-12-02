@@ -7,5 +7,5 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
-.obsidian/plugins/remember-cursor-position/cursor-positions.json
-.obsidian/workspace.json
+content/.obsidian/plugins/remember-cursor-position/cursor-positions.json
+content/.obsidian/workspace.json
