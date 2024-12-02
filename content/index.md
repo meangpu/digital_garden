@@ -7,9 +7,3 @@ draft: false
 tags:
 ---
 this page is a [meangpu](https://meangpu.github.io//) digital garden. Aim to contain my personal blog
-
-to update run
-
-```
-npx quartz sync
-```
