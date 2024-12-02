@@ -11,10 +11,15 @@
             "id": "ba0412aff59f9fd6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Template/File Template.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "File Template"
             }
           }
         ]
@@ -95,6 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Template/File Template.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -122,7 +128,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of File Template"
             }
           }
         ]
@@ -201,6 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Template/File Template.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -210,7 +217,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for File Template"
             }
           }
         ]
@@ -252,8 +259,10 @@
       "vim-toggle:Toggle Vim Mode": false
     }
   },
-  "active": "a4a509d11f29afc7",
+  "active": "ba0412aff59f9fd6",
   "lastOpenFiles": [
+    "content/index.md",
+    "Template/File Template.md",
     "Template",
     "Note/unity find all tmp ui.md",
     "Note/Place/ตำสากใหญ่.md",
@@ -280,7 +289,6 @@
     "Note/Subverse.md",
     "Note/Summer Clover.md",
     "Note/Daily/2024-11-30.md",
-    "Note/LOL.md",
     "Files/firefox_bQAlaFkjtf.png",
     "Files/firefox_x74kUvCvGJ.png",
     "Files/nomacs_RHqzf8Ec0t.jpg",
