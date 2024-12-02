@@ -6,21 +6,18 @@
   "auto_jump_to_cursor": true,
   "enable_system_commands": true,
   "shell_path": "",
-  "user_scripts_folder": "Files/MyScripts",
+  "user_scripts_folder": "",
   "enable_folder_templates": true,
-  "folder_templates": [
+  "folder_templates": [],
+  "enable_file_templates": false,
+  "file_templates": [
     {
-      "folder": "People",
-      "template": "Template/6-People Template.md"
+      "regex": ".*",
+      "template": ""
     }
   ],
   "syntax_highlighting": true,
-  "enabled_templates_hotkeys": [
-    "Template/1-Youtube summary Template.md",
-    "Template/2-Idea Template.md",
-    "Template/3-Things Template.md"
-  ],
-  "startup_templates": [
-    ""
-  ]
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [],
+  "startup_templates": []
 }

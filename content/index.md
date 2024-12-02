@@ -1,6 +1,11 @@
 ---
-title: Welcome to Quartz
+aliases:
+title: index
+description: 
+date: 2024-12-02
+draft: false
+tags: 
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+this page is a [meangpu](https://meangpu.github.io//) digital garden. Aim to contain my personal blog
+
