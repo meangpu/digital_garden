@@ -9,18 +9,21 @@ type: youtube-learn
 
 > Topic: [[youtube-learn]] [[typing]]
 > Day-ref: Wed, 09-Nov-2022 00:44 am
-> author :
 > Link: ![Tools & Tips For Learning A New Keyboard Layout (Or How To Type Faster!) - YouTube](https://www.youtube.com/watch?v=sI-a64EVPPU)
+
 
 # my summary on Type practice tip
 
-[[Monkeytype|Monkeytype]]
 [Monkeytype](https://monkeytype.com/)
-`GOD` website 100/10
+ทำ ui/ux ได้ดีเป็น website ที่เราชอบที่สุด
 ![[chrome_wjAPcsV6bN.jpg]]
+
+---
 
 [Typing Practice](https://www.keybr.com/)
 ![[chrome_e9D8g9c6e6.jpg]]
+
+---
 
 remap brain to only type correct word
 https://ranelpadon.github.io/ngram-type/
