@@ -27,7 +27,6 @@
     "Files/",
     "PythonScript/"
   ],
-  "showRibbon": false,
   "smartIndentList": true,
   "autoPairMarkdown": true,
   "autoPairBrackets": true,

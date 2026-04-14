@@ -26,5 +26,6 @@
   "nativeMenus": false,
   "interfaceFontFamily": "JetBrains Mono",
   "monospaceFontFamily": "JetBrains Mono",
-  "textFontFamily": "JetBrains Mono,Sarabun"
+  "textFontFamily": "JetBrains Mono,Sarabun",
+  "showRibbon": false
 }
